@@ -43,9 +43,9 @@
 
 ### 🔗 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@yourchannel" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="30" width="30" /></a>
-<a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
+<a href="https://x.com/yourusername" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="twitter" height="30" width="30" /></a>
 </p>
 
 ---
