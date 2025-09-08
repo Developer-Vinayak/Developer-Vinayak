@@ -42,10 +42,18 @@
 ---
 
 ### 🔗 Connect With Me
-<p align="left">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@yourchannel" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="30" width="30" /></a>
-<a href="https://x.com/yourusername" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="twitter" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinayak-mishra-b31a72298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/VinayakMis85929?t=AxGJ5o3ZQPhs6U2YI_q8vg&s=09" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="x" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@yourchannel" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" />
+  </a>
 </p>
 
 ---
