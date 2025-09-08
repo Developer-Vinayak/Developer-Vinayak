@@ -54,7 +54,20 @@
   <a href="https://www.youtube.com/@yourchannel" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/i_vi_nayak?igsh=bjVnMzMycGs3YW83" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="instagram" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@omniscientonly" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="medium" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/OmniscientsOnly/s/o7L846f427" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="40" width="40" />
+  </a>
 </p>
+
 
 ---
 ✨ *Always learning, always building. Exploring the fusion of hardware & software for smarter systems.*  
