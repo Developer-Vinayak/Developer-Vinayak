@@ -34,13 +34,15 @@
 </p>
 ---
 
-### 🏆 Achievements
+### 🔥 GitHub Streak
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Developer-Vinayak&theme=onedark&no-frame=true&no-bg=true&margin-w=8" 
-    alt="GitHub Trophies"
+    src="https://streak-stats.demolab.com?user=Developer-Vinayak&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
   />
 </p>
+
+
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vinayak-mishra-b31a72298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
