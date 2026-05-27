@@ -28,15 +28,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Vinayak&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Vinayak&layout=compact&theme=tokyonight" alt="langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Developer-Vinayak&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Vinayak&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Developer-Vinayak&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Developer-Vinayak&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
