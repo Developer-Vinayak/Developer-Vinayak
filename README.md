@@ -7,7 +7,7 @@
 - 🔭 Currently working on **Embedded Systems & IoT Projects**
 - 🌱 Learning and improving skills in **Microcontrollers, RTOS, and Python automation**
 - 👯 Open to collaborate on **IoT, Embedded, and System-level coding projects**
-- ⚡ Fun fact: I enjoy experimenting with **hardware + software integration** and also make **fun YouTube content** 🎥
+- ⚡ Fun fact: I enjoy experimenting with **hardware + software integration** and also make **fun YouTube content**
 
 ---
 
