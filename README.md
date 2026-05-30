@@ -1,75 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vinayak Mishra</h1>
-<h3 align="center">🚀 Embedded Systems & Frontend Developer | Passionate about IoT, Hardware, and Software Integration</h3>
+This is Vinayak.
+I build things.
 
----
+I got into coding chasing answers — how does this actually work? That question never stopped. At some point the curiosity became something more: a drive to ship, to put things out into the world that didn't exist before. There's something about seeing your code run for a stranger that nothing else quite matches.
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Embedded Systems & IoT Projects**
-- 🌱 Learning and improving skills in **Microcontrollers, RTOS, and Python automation**
-- 👯 Open to collaborate on **IoT, Embedded, and System-level coding projects**
-- ⚡ Fun fact: I enjoy experimenting with **hardware + software integration** and also make **fun YouTube content**
+I don't chase trends. I just care about building things that work — cleanly, quietly, without asking the user to think too hard.
 
----
+<a href="https://x.com/VinayakMis85929" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/x/white" alt="Vinayak on X" height="25" width="25" />
+</a>
 
-### 🛠️ Languages & Tools
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</div>
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=Developer-Vinayak&label=Profile%20views&color=0e75b6&style=flat" alt="Developer-Vinayak" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Developer-Vinayak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Developer-Vinayak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Developer-Vinayak&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinayak-mishra-b31a72298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/VinayakMis85929?t=AxGJ5o3ZQPhs6U2YI_q8vg&s=09" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="x" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@yourchannel" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/i_vi_nayak?igsh=bjVnMzMycGs3YW83" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="instagram" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@omniscientonly" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="medium" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/OmniscientsOnly/s/o7L846f427" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="reddit" height="40" width="40" />
-  </a>
-</p>
-
-
----
-✨ *Always learning, always building. Exploring the fusion of hardware & software for smarter systems.*  
