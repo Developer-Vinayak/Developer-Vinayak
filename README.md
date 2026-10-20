@@ -10,7 +10,7 @@ I don't chase trends. I just care about building things that work — cleanly, q
 </a>
 
 <div align="center">
-  <img height="150" src="assets/developer.gif" alt="Developer animation" />
+  <img height="150" src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Locked in coding" />
 </div>
 
 <p align="left">
