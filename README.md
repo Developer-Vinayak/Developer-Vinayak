@@ -10,9 +10,9 @@ I don't chase trends. I just care about building things that work — cleanly, q
 </a>
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+  <img height="150" src="assets/developer.gif" alt="Developer animation" />
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Developer-Vinayak&label=Profile%20views&color=0e75b6&style=flat" alt="Developer-Vinayak" />
+  <img src="https://hits.sh/github.com/Developer-Vinayak.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 </p>
