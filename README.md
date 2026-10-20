@@ -10,7 +10,7 @@ I don't chase trends. I just care about building things that work — cleanly, q
 </a>
 
 <div align="center">
-  <img width="600" src="https://media.giphy.com/media/5gXYzsVBmjIsw/giphy.gif" alt="Cool cat" />
+  <img width="200" src="https://media.giphy.com/media/TjLvoOCq9V3FkvlyZ6/giphy.gif" alt="Animated GIF" />
 </div>
 
 <p align="left">
